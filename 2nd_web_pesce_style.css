@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+h1{
+  font-family: 'BarrioRegular';
+    font-weight: normal;
+    font-style: normal;
+
+}
+h2{
+  color:black;
+  font-family: 'BarrioRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+h3{
+  color:black;
+  font-family: 'Bad Script';
+  font-weight: lighter;
+}
+li{
+  color:black;
+  font-family: 'Bad Script';
+
+}
+h3 {
+ font-size: 20px;
+}
+
+li {
+ font-size: 18px;

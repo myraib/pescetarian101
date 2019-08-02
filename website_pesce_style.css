@@ -1,0 +1,72 @@
+body {
+  background-color: white;
+}
+h1{
+  font-family: 'BarrioRegular';
+    font-weight: normal;
+    font-style: normal;
+
+}
+h2{
+  color:black;
+  font-family: 'BarrioRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+h3{
+  color:black;
+  font-family: 'Bad Script';
+  font-weight: lighter;
+}
+li{
+  color:black;
+  font-family: 'Bad Script';
+
+}
+h3 {
+ font-size: 20px;
+}
+
+li {
+ font-size: 18px;
+}
+.border{
+    border-width:5px;
+    border-style:dotted solid;
+    border-color: orange;
+    border-right: dotted solid;
+    border-left: : dotted solid;
+}
+
+
+
+
+
+
+/* Split the screen in half */
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color:white;
+}
+
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color:white;
+
+
+
+  }
